@@ -1,2 +1,2 @@
 # BugFront-privacy-policy
-Documento para politica de privacidade
+Documento para política de privacidade
